@@ -40,7 +40,14 @@ namespace tic_tac_toe
 
                 try
                 {
-                    choice = int.Parse(Console.ReadLine());
+                    if(player % 2 == 1)
+                    {
+                        choice = int.Parse(Console.ReadLine());
+                    }
+                    else
+                    {
+                        choice = this._bot.position(this._tisch.availablePosition());
+                    }
                 }
                 catch
                 {
