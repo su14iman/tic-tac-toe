@@ -26,8 +26,11 @@
 
 -   **Flowchart**:
 
-![Alt text](/doc/images/flowchart_gamemanger.svg "flowchart GameManger")
+    - GameManger
+    ![Alt text](/doc/images/flowchart_gamemanger.svg "flowchart GameManger")
 
-![Alt text](/doc/images/flowchart_tisch.svg "flowchart Tisch")
+    - Tisch
+    ![Alt text](/doc/images/flowchart_tisch.svg "flowchart Tisch")
 
-![Alt text](/doc/images/flowchart_spieler.svg "flowchart Spieler")
+    - Spieler
+    ![Alt text](/doc/images/flowchart_spieler.svg "flowchart Spieler")
