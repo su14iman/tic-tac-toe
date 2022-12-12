@@ -18,7 +18,7 @@
 	-   Das Spiel beginnt mit der Aufforderung, den Namen des Spielers einzugeben
 	-   Die Rolle des Spielers (Mensch) beginnt zunächst mit der Auswahl ein Felder
 	-   Dann die Rolle geht an den Bot, um zufällig auszuwählen
-	-   Das Spiel endet mit einem Gewinn für eine der Parteien oder einem Unentschieden, wenn alle Felder ausgefüllt sind
+	-   Das Spiel endet mit einem Gewinn für ein Spieler oder Unentschieden, wenn alle Felder ausgefüllt sind
 
 -   **Classes Diagram**:
 
